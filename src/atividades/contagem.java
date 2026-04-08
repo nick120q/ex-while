@@ -1,4 +1,6 @@
-public class umadez {
+package atividades;
+
+public class contagem {
     static void main() {
         int n1 = 1;
 
